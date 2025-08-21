@@ -1,0 +1,57 @@
+body {
+    font-size: 15pt;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+.post{
+    border: 1px solid #42445A;
+    padding: 35px;
+    margin: 25px;
+    border-radius: 10px;
+}
+
+.post h3{
+    font-size: 10pt;
+    font-weight: 450;
+}
+
+.post a{
+    text-decoration: none;
+    color: #42445A;
+    font-size: 6pt;
+    border: none;
+    padding: 0;
+}
+
+.post p{
+    font-size: 8pt;
+}
+
+.head{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.head h1{
+	font-weight: 300;
+	text-decoration: underline;
+}
+
+a{
+	border: 1px solid black;
+	padding: 5px;
+	text-decoration: none;
+	color: #333;
+}
+
+.post-info{
+	display: flex;
+}
+
+.post-info label{
+	padding: 0px 5px;
+	color: #333;
+	font-size: 14pt;
+}
