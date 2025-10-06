@@ -13,3 +13,11 @@ The architecture of the app is messy
 
 This app was made solely to understand how backend
 in social media works and how authentication works
+
+#### Running
+
+There aint many options if you wanna run this app just execute
+
+```bash
+$ node index
+```
